@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**vduartte/vduartte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <div align='center'> Olá, eu sou o Victor Duarte! 👋</div>
+<div align='center'>🌱 Atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end e estudando Kotlin e KMP! </br> I'm currently improving my knowledge in front-end development and studying Kotlin and KMP!</div>
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="#">
+    <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api?username=pedrovs3&show_icons=true&theme=midnight-purple&include_all_commits=true&border_radius=12&hide_border=true&count_private=true)](https://git.io/streak-stats" />
+  </a>
+  <a href="#">
+    <img align="center" height="180em" src="https://github-readme-stats-beta-coral.vercel.app/api/top-langs/?layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&count_private=true&username=pedrovs3&hide=ejs,html,css,scss"/>
+  </a>
+</div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=pedrovs3&theme=midnight-purple&hide_border=true&border_radius=18&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+</div>
+  </div>
+  
+  ##
+  
+  <div align="center">
+  <a href="https://www.linkedin.com/in/pedro-henrique-vieira-silva-06839b239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrovs3@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
+    
+###
+<div align="center">
+  
+   [![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nextjs,vite,sass,nodejs,tailwind,kotlin,mysql,azure,firebase)](https://skills.thijs.gg)
+
+</div>
+</div>
