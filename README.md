@@ -1,6 +1,6 @@
 
-### <div align='center'> Olá, eu sou o Victor Duarte! 👋</div>
-<div align='center'>🌱 Atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end e estudando Kotlin e KMP! </br> I'm currently improving my knowledge in front-end development and studying Kotlin and KMP!</div>
+### <div align='center'> Olá, eu sou o Victor Duarte! Analista de Infraestrutura PL 👋</div>
+<div align='center'>🌱 Atualmente estou aprimorando meus conhecimentos em desenvolvimento front-end e estudando HTML, CSS e JS! </br> I'm currently improving my knowledge in front-end development and studying HTML, CSS and JS!</div>
 
 ##
 
@@ -23,8 +23,8 @@
   ##
   
   <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-henrique-vieira-silva-06839b239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:pedrovs3@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victor-duarte-400b78223/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vduartte.franca@gmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
     
 ###
