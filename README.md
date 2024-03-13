@@ -15,7 +15,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=pedrovs3&theme=midnight-purple&hide_border=true&border_radius=18&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+  
 
 </div>
   </div>
